@@ -52,7 +52,7 @@ Create a secret in AWS Secrets Manager. I named mine `SnowflakeSecret` but you c
 * Password - Password used to log into Snowflake
 * Warehouse - Compute Warehouse used to run the queries
 
-
+t
 
 
 
